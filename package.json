@@ -1,0 +1,22 @@
+{
+    "name": "starry-code-theme",
+    "displayName": "starry-code-theme",
+    "description": " A theme inspired from The Starry Night Painting by Vincent van Gogh",
+    "version": "0.0.1",
+    "publisher": "DalalBinHumaid",
+    "engines": {
+        "vscode": "^1.59.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "starry code",
+                "uiTheme": "vs-dark",
+                "path": "./themes/starry code-color-theme.json"
+            }
+        ]
+    }
+}
