@@ -4,6 +4,10 @@
     "description": " A theme inspired from The Starry Night Painting by Vincent van Gogh",
     "version": "0.0.1",
     "publisher": "DalalBinHumaid",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/dalalbinhumaid/starry-code-theme"
+    },
     "engines": {
         "vscode": "^1.59.0"
     },
